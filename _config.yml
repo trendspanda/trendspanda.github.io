@@ -3,15 +3,15 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Trends
+first_name: Yuda
 middle_name:
-last_name: Panda
+last_name: Bi
 email: ybi3@gsu.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Trend Spanda's Webpage
+  Yuda Bi's Webpage
 footer_text: >
   
-keywords: trendspanda # add your own keywords or leave empty
+keywords: Yuda Bi # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -314,8 +314,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Wang]
-  first_name: [Chen]
+  last_name: [Yuda]
+  first_name: [BiBi]
 
   style: american-physical-society-et-al
   locale: en
