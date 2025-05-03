@@ -1,0 +1,57 @@
+---
+---
+<div class="grid-sizer col-lg-12 isotope-item pubtype-4"  >
+
+
+    {% comment %}$\mathrm{AgCrSe}_2${% endcomment %}
+    <div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+
+
+        {% comment %}{% if entry.refs %}
+        <div class="article-title">
+            {{ entry.refs }}
+        </div>
+        {% endif %}{% endcomment %}
+
+        <div>
+
+
+            <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+            <!-- Author start-->
+            {% if entry.author_text %}
+                {% comment %}{% if entry.link %}<a  href="{{ entry.link }}" target="_blank">{% endif %}{% endcomment %}
+                {% comment %}<span class="article-authors"> {{ entry.author | markdownify | remove: "<p>"  | remove: "</p>" }}, </span>{% endcomment %}
+                <span class="article-authors"> {{ entry.author_text }}, </span>
+                {% comment %}{% if entry.link %}</a>{% endif %}{% endcomment %}
+            {% endif %}
+            <!-- Author end-->
+
+            {% comment %}{% if entry.year %}({{ entry.year }}).{% endif %}{% endcomment %}
+
+            
+            {% comment %}<span class="article-title"> {{ entry.title }}. </span>{% endcomment %}
+            <span class="article-title">
+                {% if entry.link %}<a style="color: var(--global-text-color)" href="{{ entry.link }}" target="_blank">{% endif %}
+                      {{ entry.title  | markdownify  | remove: "<p>"  | remove: "</p>" }}
+                {% if entry.link %}</a>{% endif %},
+            </span>
+
+            {% if entry.journal %}
+                <span> {{ entry.journal }}, {{ entry.number }} ({{ entry.year }}) {{ entry.volume }}. </span>
+            {% endif %}
+
+            {% if entry.pdf %}
+                <p>
+                    <a class="btn btn-outline-primary btn-page-header btn-sm" href="{{ entry.pdf }}" target="_blank" rel="noopener">
+                        PDF
+                    </a>
+                </p>
+            {% endif %}
+
+        </div>
+
+    </div>
+
+</div>
+
