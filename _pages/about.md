@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: justify 
-  image: about.jpg
+  image: myself.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p> <small>Assistant Professor<small></p>
@@ -17,10 +17,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
+Yuda Bi, Ph.D., graduated from the [Tri-Institutional Center for Translational Research in Neuroimaging and Data Science (TReNDS)](http://trendscenter.org) in 2025, under the supervision of **Prof. Vince Calhoun**. Prior to this, Dr. Bi earned a Master’s degree from the University of Georgia in 2020.
 
-An Assistant Professor in Institute for Advanced Study. Before joining SZU, he was a Postdoctoral Fellow at the University of Hong Kong (HKU). Dr. Wang obtained his B.E. degree from China University of Petroleum-Beijing (CUPB) in 2015 and his M.S. degree from Carnegie Mellon University (CMU) in 2017, both in Chemical Engineering. He obtained his Ph.D. degree (2021) in Mechanical Engineering from HKU under the supervision of Prof. Yue Chen. 
-
-Dr. Wang's current research focuses on developing and implementing first-principles-based methods and machine-learning approaches to simulate the dynamics of phonons and electrons at the atomic level and their application to thermal management. Research topics include heat transport phenomena, anharmonic lattice dynamics, and structural phase transition for energy-converting materials, covering perovskites, thermoelectrics, and superionic conductors.
+Dr. Bi’s primary research focuses on **NeuroImaging**, **Multimodal Fusion**, and **AI-driven brain disease diagnosis**. He has published several papers in prestigious journals, including *IEEE Transactions on Medical Imaging*, *NeuroImage*, and *Human Brain Mapping*. Dr. Bi also serves as a reviewer for multiple journals and conferences, such as *Journal of Biomedical and Health Informatics*, *Human Brain Mapping*, *IEEE ISBI*, and *MICCAI*.
 
 
 &nbsp;
