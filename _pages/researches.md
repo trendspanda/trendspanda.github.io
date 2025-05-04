@@ -2,7 +2,7 @@
 layout: page
 title: Research
 permalink: /researches/
-description: Dr. Wang's current research focuses on developing and implementing first-principles-based methods and machine-learning approaches to simulate the dynamics of phonons and electrons at the atomic level and their application to thermal management. Research topics include heat transport phenomena, anharmonic lattice dynamics, and structural phase transition for energy-converting materials, covering perovskites, thermoelectrics, and superionic conductors.
+description: Dr. Bi's research primarily focuses on leveraging large-scale model technologies for the study of psychiatric pathology, incorporating functional and structural MRI data, clinical data, and more. Additionally, Dr. Bi employs deep learning techniques to identify biomarkers for psychiatric disorders and various brain diseases.
 nav: true
 nav_order: 5
 # display_categories: []
