@@ -2,7 +2,7 @@
 layout: post
 title: 戳破“第一学历为金标准”的荒谬迷思
 date: 2025-03-26 14:24:00
-description: 评论文章
+description: Simple Posts
 tags: formatting charts
 categories: sample-posts
 
