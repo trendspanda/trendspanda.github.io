@@ -19,6 +19,8 @@ Yuda Bi, Ph.D., graduated from the [Tri-Institutional Center for Translational R
 
 Dr. Bi’s primary research focuses on **neuroimaging**, **multimodal fusion**, and **AI-driven brain disease diagnosis**. He has published several papers in prestigious journals, including *IEEE Transactions on Medical Imaging*, *NeuroImage*, and *Human Brain Mapping*. Dr. Bi also serves as a reviewer for multiple journals and conferences, such as *Journal of Biomedical and Health Informatics*, *Human Brain Mapping*, *IEEE ISBI*, and *MICCAI*.
 
+Dr. Bi is also an avid investor in the U.S. stock market, holding a CFA Level III certification. His investment focus includes short-term technical analysis, quantitative indicator analysis, and price action studies. Additionally, Dr. Bi is a science fiction writer and enthusiast. These details can be found in the *blog* section of this website.
+
 
 &nbsp;
 &nbsp;
