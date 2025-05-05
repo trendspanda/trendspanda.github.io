@@ -96,9 +96,19 @@
                 </li>
               {% else %}
                 {% assign parent_link = p.permalink | remove: 'index.html' %}
-                <li class="nav-item {% if page.url contains parent_link %}active{% endif %}">
+                {% comment %} <li class="nav-item {% if page.url contains parent_link %}active{% endif %}"> {% endcomment %}
+                <li class="nav-item {% if page.url contains parent_link and p.permalink %}active{% endif %}">
+
                   {% if p.permalink contains '/blog/' %}{% assign url = '/blog/' %} {% else %}{% assign url = p.url %}{% endif %}
-                  <a class="nav-link" href="{{ url | relative_url }}">
+                  
+                  {% if p.outter_link  %}
+                    {% assign ahrefLink = p.outter_link %} 
+                  {% else %}
+                    {% assign ahrefLink = url | relative_url  %}
+                  {% endif %}
+
+                  {% comment %} <a class="nav-link" href="{{ url | relative_url }}"> {% endcomment %}
+                  <a class="nav-link" href="{{ ahrefLink }}">
                     {{- p.title }}
                     {% if page.url contains p.url %}
                       <span class="sr-only">(current)</span>
